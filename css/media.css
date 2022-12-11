@@ -1,0 +1,333 @@
+@media(mim-width:1400px){
+    .banner-img .owl-nav .owl-prev{
+        left: 20%;
+    }
+    .banner-img .owl-nav .owl-next{
+        right:20%;
+    }
+}
+
+
+@media(max-width:575px){
+    .banner-img .owl-nav .owl-prev{
+        left: 0;
+    }
+    .banner-img .owl-nav .owl-next{
+        right: 0 !important;
+    }
+    .logo-md{
+        display: none;
+    }
+    .main-logo{
+        display: inline-block;
+    }
+    .main-logo img{
+        width: 100px;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .banner-img{
+        display: none;
+    }
+    .img-satff{
+        text-align: center;
+        align-items: flex-end !important;
+    }
+    .welcome-img{
+        position: inherit;
+        width: 50%;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    .welcome{
+        text-align: left;
+    }
+    .doctor{
+        width: 100%;
+    }
+   
+    .doctor-info span{
+        display: none;
+    }
+    .seaction-conti{
+        text-align: center;
+    }
+    .conti{
+justify-content: center;
+align-items: center;
+    }
+    .secson h1{
+        font-size: 15px;
+    }
+    .secson img{
+        width: 80px;
+    }
+    .secson p{
+font-size: 16px;
+    }
+    .flex img{
+        width: 40px;
+    }
+    .icon h3{
+font-size:15px;
+    }
+     .top-header{
+        display: none;
+     }
+     .--mobail-top-hrdar{
+        display: contents !important;
+        width: 70%;
+        padding-bottom: 20px !important;
+    }
+    .navbar-collaps{
+        display: flex !important;
+    }
+    .navbar-nav{
+    border-bottom:1px solid #fff ;
+    }
+    .hesder-info{
+        margin-bottom: 25px;
+        margin-left: 0;
+    }
+    .icon-box{
+        margin-right: 15px;
+    }
+
+    .info h5, .info p{
+        color: #fff;
+    }
+}
+
+@media(max-width:320px){
+    .main-logo img{
+        width: 100px !important;
+    }
+    .img-satff h1{
+        font-size: 16px !important;
+        }
+        .img-satff h2{
+            font-size: 14px !important;
+            }
+            .img-satff p{
+                font-size: 10px !important;
+                }
+                .conti h2{
+                    font-size: 14px !important;
+                }   
+                .doctor-info h3{
+                font-size: 20px !important;
+                }
+                .coll h2{
+                    font-size: 25px !important;
+                }
+                .cool h2{
+                    font-size: 20px !important;
+                }
+                .prici-tabel h2{
+                 font-size: 13px !important;
+                }
+                .prici-tabel p{
+                    font-size: 12px !important;
+                   }
+                   .prici h1{
+                    font-size: 20px !important;
+                   }
+                   .prici P{
+                    font-size: 13PX !important;
+                   }
+                   .hojo P{
+                    font-size: 13PX !important;
+                   }
+                   .secson P{
+                       font-size: 12PX !important;
+                   }
+                   .fle img{
+                    width: 45px !important;
+                   }
+                   .flex img{
+                    width: 20px !important;
+                   }
+                   .seaction-conti h6{
+                    font-size: 12px !important;
+                   }
+        }
+
+@media(max-width:425px){
+.img-satff h1{
+font-size: 25px;
+}
+.img-satff h2{
+    font-size: 25px;
+    }
+    .img-satff p{
+        font-size: 15px !important;
+        }
+        .conti h2{
+            font-size: 14px !important;
+        }   
+        .doctor-info h3{
+        font-size: 20px !important;
+        }
+        .coll h2{
+            font-size: 25px !important;
+        }
+        .cool h2{
+            font-size: 20px !important;
+        }
+        .prici-tabel h2{
+         font-size: 13px !important;
+        }
+        .prici-tabel p{
+            font-size: 12px !important;
+           }
+           .prici h1{
+            font-size: 20px !important;
+           }
+           .prici P{
+            font-size: 13PX !important;
+           }
+           .hojo P{
+            font-size: 13PX !important;
+           }
+           .secson P{
+               font-size: 12PX !important;
+           }
+           .fle img{
+            width: 45px !important;
+           }
+           .flex img{
+            width: 20px !important;
+           }
+           .seaction-conti h6{
+            font-size: 12px !important;
+           }
+}
+@media(max-width:768px){
+    .a .nav-link{
+        font-size: 25px;
+    }
+    .logo-md{
+        display: none;
+    }
+    .main-logo{
+        display: inline-block;
+    }
+    .main-logo img{
+        width: 200px;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .banner-img{
+        display: none;
+    }
+    .img-satff{
+        text-align: center;
+        align-items: flex-end !important;
+        width: 200%;
+        padding-bottom: 380px;
+    }
+    .cool{
+     text-align: center;
+     justify-content: baseline;
+     width: 100%;
+    }
+    .welcome-img{
+        display: none;
+    }
+    .welcome{
+        text-align: left;
+    }
+    
+    .doctor {
+        width: 100%;
+    }
+   .conti h2{
+font-size: 25px;
+   }
+    .doctor-info span{
+        display: none;
+    }
+    .seaction-conti{
+        text-align: center;
+    }
+    .conti{
+justify-content: center;
+align-items: center;
+    }
+    .secson h1{
+        font-size: 15px;
+    }
+    .secson img{
+        width: 80px;
+    }
+    .secson p{
+font-size: 16px;
+    }
+    .flex img{
+        width: 40px;
+    }
+    .icon h3{
+font-size:15px;
+    }
+     .top-header{
+        display: none;
+     }
+     .--mobail-top-hrdar{
+        display: contents !important;
+        width: 70%;
+        padding-bottom: 20px !important;
+    }
+    .navbar-collaps{
+        display: flex !important;
+    }
+    .navbar-nav{
+    border-bottom:2px solid #fff ;
+    }
+    .hesder-info{
+        margin-bottom: 25px;
+        margin-left: 0;
+    }
+    .hesder-info h5{
+    font-size: 25px;
+    }
+    .hesder-info p{
+        font-size: 20px;
+    }
+    .icon-box{
+        margin-right: 15px;
+    }
+
+    .info h5, .info p{
+        color: #fff;
+    }
+}
+@media(max-width:1024px){
+    .logo{
+        padding-top: 30px;
+        width: 190px;
+    }
+    .logo img{
+        width:300px !important;
+    }
+    .banner-img{
+        width: 750px;
+    }
+    .icon-box{
+    width: 30px;
+    }
+     
+    .hesder-info h5{
+font-size: 20px;
+    }
+    .hesder-info p{
+font-size: 11px;
+    }
+    .welcome-img{
+        width: 350px;
+    }
+}
+@media(max-width:1440px){
+ 
+}
